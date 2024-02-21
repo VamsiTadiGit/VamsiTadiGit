@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @VamsiTadiGit
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning web development
+- 😄 Pronouns: He/Him
